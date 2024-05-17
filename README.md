@@ -1,7 +1,6 @@
-https://shorturl.at/tHDxU
 ### Hi there 👋, I'm Md. Kamruzzaman
 #### Full-Stack Web Developer | Innovator | Problem Solver
-![Full-Stack Web Developer | Innovator | Problem Solver]
+![Full-Stack Web Developer | Innovator | Problem Solver](https://shorturl.at/tHDxU)
 
 Hello there! I'm Md. Kamruzzaman, a dedicated and results-driven WordPress developer with a passion for crafting visually stunning and highly functional websites. With a solid background in HTML, CSS, JavaScript, PHP, and MySQL, I specialize in delivering responsive and user-friendly web solutions that exceed expectations.
 
