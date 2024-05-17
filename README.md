@@ -1,4 +1,4 @@
-(https://shorturl.at/tHDxU)
+https://shorturl.at/tHDxU
 ### Hi there 👋, I'm Md. Kamruzzaman
 #### Full-Stack Web Developer | Innovator | Problem Solver
 ![Full-Stack Web Developer | Innovator | Problem Solver]
