@@ -2,7 +2,7 @@
 #### Full-Stack Web Developer | Innovator
 ![Full-Stack Web Developer | Innovator | Problem Solver](https://shorturl.at/tHDxU)
 
-Hello there! I'm Md. Kamruzzaman, a dedicated and results-driven WordPress developer with a passion for crafting visually stunning and highly functional websites. With a solid background in HTML, CSS, JavaScript, PHP, and MySQL, I specialize in delivering responsive and user-friendly web solutions that exceed expectations.
+Hello there! I'm Md. Kamruzzaman, a dedicated and results-driven WordPress developer with a proven track record of creating visually stunning and highly functional websites. Proficient in HTML, CSS, JavaScript, PHP, and MySQL, with a strong focus on delivering responsive and user friendly web solutions. Experienced in WordPress theme and plugin development. Seeking to leverage technical expertise and creative problem solving skills to contribute effectively to a dynamic development team.
 
 Let's connect to explore potential collaborations or discuss industry trends and insights. I'm always eager to engage with fellow professionals and exchange knowledge.
 
